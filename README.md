@@ -46,6 +46,13 @@ Run the main Python script or open the Jupyter Notebook to execute the analysis 
 ```bash
 python main.py
 ```
+## 📊 Example Charts
+
+### Customer Age vs Churn (Before Resolution)
+![Age vs Churn - Before](dias_atraso-pre.png)
+
+### Customer Age vs Churn (After Resolution)
+![Age vs Churn - After](dias_atraso-post.png)
 
 ### ⚠️ Important Notes
 
